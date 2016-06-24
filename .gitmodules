@@ -1,0 +1,9 @@
+[submodule "netCrawl"]
+	path = netCrawl
+	url = https://github.com/SFNKassel/netCrawl
+[submodule "netBackend"]
+	path = netBackend
+	url = https://github.com/SFNKassel/netBackend
+[submodule "netWeb"]
+	path = netWeb
+	url = https://github.com/SFNKassel/netWeb
